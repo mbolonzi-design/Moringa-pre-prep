@@ -3,6 +3,7 @@ body{
     flex-direction: column;
     align-items: center;
 }
+/*
 p{
     width: 100px;
     height: 100px;
@@ -13,6 +14,7 @@ p{
     margin: 20px;
     text-align: center;
 }
+*/
 #margin{
     position: relative;
     bottom: 400px;
@@ -38,4 +40,11 @@ p{
     position: relative;
     bottom: 200px;
     border: 2px dashed black;
+}
+p{
+    padding-top: 40px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    border: 2px dotted grey;
 }

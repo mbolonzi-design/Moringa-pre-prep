@@ -1,0 +1,25 @@
+.first{
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+    text-shadow: 2px 2px 5px grey;
+    border: 2px solid red;
+}
+.second{
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+    background-color: greenyellow;
+    opacity: 0.5;
+    border: 2px solid salmon;
+    box-sizing: border-box;
+}
+.third{
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+    border: 2px solid blue;
+}
+.third:hover{
+    box-shadow: 2px 2px 10px grey;
+}
